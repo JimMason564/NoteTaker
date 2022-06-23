@@ -16,7 +16,7 @@ This program runs from Node and will require the associated dependencies as well
 -Express
 
 ## Screenshot
-
+![Screenshot of deployed app](./lib/Screen%20Shot%202022-06-22%20at%207.16.15%20PM.png)
 
 
 ## Links
